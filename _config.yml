@@ -1,16 +1,16 @@
-typography_spectrum: 0.7504617520608008
+typography_spectrum: 0.6941950628533959
 color:
-  brandStrength: 0.8786355527117848
-  lightness: 0.9340614869724959
-  saturation: 0.1905130462255329
-  rhythmicContrast: 0.07983277784660459
+  brandStrength: 0.7315819857176393
+  lightness: 0.17028910107910633
+  saturation: 0.49545326735824347
+  rhythmicContrast: 0.06229319982230663
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.4549459181725979
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+layout_spectrum: 0.3440930286888033
 name: 8h51
 title: '8:51'
 description: art design nouveau cinema
