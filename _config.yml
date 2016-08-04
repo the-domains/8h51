@@ -1,16 +1,16 @@
-typography_spectrum: 0.6941950628533959
+typography_spectrum: 0.6452057792339474
 color:
-  brandStrength: 0.7315819857176393
-  lightness: 0.17028910107910633
-  saturation: 0.49545326735824347
-  rhythmicContrast: 0.06229319982230663
+  brandStrength: 0.21836908115074039
+  lightness: 0.3621182544156909
+  saturation: 0.8370952163822949
+  rhythmicContrast: 0.6864339699968696
   brandColors:
     - '#2F2933'
     - '#01A2A6'
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-layout_spectrum: 0.3440930286888033
+layout_spectrum: 0.7809084902983159
 name: 8H51
 title: 8H51
 description: experiential cinema
